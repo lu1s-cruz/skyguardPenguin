@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="styles.css" />
 <h1 class ="title">Luis Cruz</h1>
 :tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537:
 <div style="background-color:#147dcb;color:white;border-radius:50px;">
