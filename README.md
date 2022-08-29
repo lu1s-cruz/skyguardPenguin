@@ -46,7 +46,9 @@ Luis Cruz
 </p>
 
   </div>
+  <h2 align = "center" >Horario</h2>
+<img src ="https://i.imgur.com/43bbF4a.png" align ="center"></img>
 </div>
 
 
-<h1 align = "center" >Horario</h1>
+
