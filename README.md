@@ -1,30 +1,52 @@
-<link rel="stylesheet" href="styles.css" />
-<h1 class ="title">Luis Cruz</h1>
-:tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537:
-<div style="background-color:#147dcb;color:white;border-radius:50px;">
-<h1 align="center">Luis Cruz</h1>
-
+<div align ="center">
+:large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
 </div>
-:tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537::tw-1f537:
-
-<img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img><img style="width:50px;"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fstar%2Fstar_PNG41449.png&f=1&nofb=1"></img>
-
-<h1 align="center">Horario</h1>
-[![horario](https://i.imgur.com/7srQ2d8.png "horario")](https://imgur.com/7srQ2d8 "horario")
-
-
-<div style="background-color:white;color:wh">
-<h1 align="center" >Acerca de mí</h1>
-<ul>
-<li class="hola" >Originario de Tijuana, Baja California</li>
-<li>Estudiante del Instituto Tecnológico de Tijuana.</li>
-<li>Backend Developer</li>
-<li>Principales tecnologías: .NET, Oracle, SQL Server</li>
-<li>Animal favorito:     <img style="width:40px;"src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F03%2FPenguin-Transparent.png&f=1&nofb=1"></img><img style="width:40px;"src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F03%2FPenguin-Transparent.png&f=1&nofb=1"></img><img style="width:40px;"src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F03%2FPenguin-Transparent.png&f=1&nofb=1"></img> </li>
-</ul>
+<h1 align ="center"">
+Luis Cruz
+</h1>
+<div align ="center">
+:large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
 </div>
-<style>
-.hola{
-background-color:blue;
-}
-</style>
+<div align ="center">:penguin:</div>
+<div align="center" >
+  <div>
+      :mortar_board:<a href ="https://www.tijuana.tecnm.mx/" >Instituto Tecnológico de Tijuana</a>
+  </div>
+  <div>:round_pushpin: Tijuana, Baja California, México</div>
+    <div>:briefcase: Backend Developer</div>
+</div>
+
+<div align="center"> 
+
+  <h2>
+    <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FCorruptScarceGroundbeetle-size_restricted.gif&f=1&nofb=1" width="30px"></img>
+    Tecnologías
+ </h2>
+  
+  <div>
+    <p align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a>
+<a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
+</a>   
+<a href="https://dotnet.microsoft.com/en-us/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/csharp.svg" height="35" />
+</a>
+<a href="https://docs.oracle.com/en/java/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg">
+</a>
+</p>
+
+  </div>
+</div>
+
+
+<h1 align = "center" >Horario</h1>
