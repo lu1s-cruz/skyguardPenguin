@@ -2,7 +2,9 @@
 <h1 align ="center"">
 ⚜️ Luis Cruz ⚜️
 </h1>
-Desarrollador full stack egresado del Instituto Tecnológico de Tijuana, con más de 3 años de experiencia en el mundo del desarrollo de software. 
+<div align="center" >
+Desarrollador full stack egresado del Instituto Tecnológico de Tijuana, con más de 3 años de experiencia en el mundo del desarrollo de software. </div>
+<p></p>
 <div align="center" >
   <div>
       :mortar_board:<a href ="https://www.tijuana.tecnm.mx/" >Instituto Tecnológico de Tijuana</a>
@@ -14,7 +16,7 @@ Desarrollador full stack egresado del Instituto Tecnológico de Tijuana, con má
 <div align="center"> 
 
   <h2>
-    <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FCorruptScarceGroundbeetle-size_restricted.gif&f=1&nofb=1" width="30px"></img>
+    🤖
     Tecnologías
  </h2>
   
