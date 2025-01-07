@@ -2,8 +2,7 @@
 <h1 align ="center"">
 ⚜️ Luis Cruz ⚜️
 </h1>
-
-<div align ="center">:penguin:</div>
+Desarrollador full stack egresado del Instituto Tecnológico de Tijuana, con más de 3 años de experiencia en el mundo del desarrollo de software. 
 <div align="center" >
   <div>
       :mortar_board:<a href ="https://www.tijuana.tecnm.mx/" >Instituto Tecnológico de Tijuana</a>
@@ -19,7 +18,7 @@
     Tecnologías
  </h2>
   
-  <div>https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg?short_path=fea38f1
+  <div>
 <p align="center">
 <a href="https://dotnet.microsoft.com/en-us/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/csharp.svg" height="35" />
@@ -27,14 +26,8 @@
 <a href="https://dotnet.microsoft.com/en-us/">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg?short_path=fea38f1" height="35" />
 </a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
-</a>
-<a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+<a href="https://dotnet.microsoft.com/en-us/">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" height="35" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
