@@ -1,12 +1,8 @@
-<div align ="center">
-:large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-</div>
+
 <h1 align ="center"">
-Luis Cruz
+⚜️ Luis Cruz ⚜️
 </h1>
-<div align ="center">
-:large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-</div>
+
 <div align ="center">:penguin:</div>
 <div align="center" >
   <div>
