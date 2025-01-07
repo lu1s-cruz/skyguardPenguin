@@ -20,7 +20,10 @@
  </h2>
   
   <div>
-    <p align="center">
+<p align="center">
+<a href="https://dotnet.microsoft.com/en-us/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/csharp.svg" height="35" />
+</a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
 </a>
@@ -33,9 +36,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
 </a>   
-<a href="https://dotnet.microsoft.com/en-us/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/csharp.svg" height="35" />
-</a>
+
 <a href="https://docs.oracle.com/en/java/">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg">
 </a>
